@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif)]
+![MasterHead](https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif)
 <h1 align="center">Hi 👋, I'm Prathmesh Kittur</h1>
 <h3 align="center">Passionate about Web Development, Graphic design and UI/UX design</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
