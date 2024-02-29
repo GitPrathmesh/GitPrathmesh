@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying in KLE Technological University **Computer Science**
 
-- 🌱 I’m currently learning **JavaScript, python, C++, Node.js**
+- 🌱 I’m currently learning **Web Development ,python, C++**
 
 - 📫 How to reach me **mailyourprathmesh@gmail.com**
 
