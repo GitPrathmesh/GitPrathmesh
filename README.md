@@ -1,15 +1,13 @@
 
 ![MasterHead](https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif)
 <h1 align="center">Hi 👋, I'm Prathmesh Kittur</h1>
-<h3 align="center">Passionate about Web Development, Graphic design and UI/UX design</h3>
+<h3 align="center">Passionate about Dev, Design, AI-Ml, Networking and Cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitprathmesh&label=Profile%20views&color=0e75b6&style=flat" alt="gitprathmesh" /> </p>
 
 - 🔭 I’m currently studying in KLE Technological University **Computer Science**
-
-- 🌱 I’m currently learning **Web Development ,python, C++**
 
 - 📫 How to reach me **mailyourprathmesh@gmail.com**
 
